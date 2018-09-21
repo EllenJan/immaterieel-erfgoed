@@ -16,4 +16,4 @@ De dataset 'Processies_Vlaanderen' is relevant voor musea en expertisecentra met
 ## Gebruiksrichtlijnen
 * Naamsvermelding: immaterieelerfgoed.be
 * Als u verwijst naar een processie die deel uitmaakt van deze dataset, maak dan gebruik van de persistentie URI ID.
-Maakt u gebruik van het beeld, vermeld dan de persistente URI representation ...
+Maakt u gebruik van het beeld, vermeld dan de persistente URI representation.
