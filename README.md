@@ -5,15 +5,14 @@
 * Naam, beschrijving, locatie en representatie van de geïnventariseerde processies
 
 ## [Processies in Vlaanderen]
-* Omschrijf wat er concreet in je dataset zit. (cf. je dataprofiel)
-* csv
-* Leg eventueel links naar visualisaties of API's.
+* De dataset bevat (cf. je dataprofiel)
+* De data is beschikbaar in csv
 
 ## Licenties
 * CC BY-SA
 * CC BY-SA
 
 ## Gebruiksrichtlijnen
-* immaterieelerfgoed.be
+* Naamsvermelding: immaterieelerfgoed.be
 * Hoe verwijs je best naar de inhoud van je data? (cf persistente URI's)
 * andere richtlijnen voor gebruik?
