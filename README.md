@@ -11,7 +11,7 @@ De dataset 'Processies_Vlaanderen' is relevant voor musea en expertisecentra met
 
 ## Licenties
 * Licentie data: CC BY-SA
-* Licentie beeld (='representatie'): CC BY-SA
+* Licentie beeld (= 'representatie'): CC BY-SA
 
 ## Gebruiksrichtlijnen
 * Naamsvermelding: immaterieelerfgoed.be
