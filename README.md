@@ -5,12 +5,15 @@
 * Naam, beschrijving, locatie en representatie van de geïnventariseerde processies
 
 ## [Processies in Vlaanderen]
-* De dataset bevat (cf. je dataprofiel)
+* De dataset bevat
+  * object: titel, ID, beschrijving, persistente URI, rechtenvermelding
+  * beeld: represenation, persistente URI, rechtenvermelding
+  * locatie: locatienaam, Geonames ID, Geonames URI, geografische locatie
 * De data is beschikbaar in csv
 
 ## Licenties
-* CC BY-SA
-* CC BY-SA
+* Licentie metadata: CC BY-SA
+* Licentie beeld (='representatie'): CC BY-SA
 
 ## Gebruiksrichtlijnen
 * Naamsvermelding: immaterieelerfgoed.be
