@@ -1,1 +1,19 @@
-# immaterieel-erfgoed
+# [immaterieel erfgoed]
+* Het immaterieel erfgoed in Vlaanderen en de zorg ervoor participatief inventariseren en documenteren
+* Informatie over het immaterieel erfgoed in Vlaanderen
+* Musea en expertisecentra met een werking rond het thema sociale praktijken (processies) die hun (roerende) collectie willen verrijken met data over het gerelateerd immaterieel erfgoed
+* Naam, beschrijving, locatie en representatie van de geïnventariseerde processies
+
+## [Processies in Vlaanderen]
+* Omschrijf wat er concreet in je dataset zit. (cf. je dataprofiel)
+* csv
+* Leg eventueel links naar visualisaties of API's.
+
+## Licenties
+* CC BY-SA
+* CC BY-SA
+
+## Gebruiksrichtlijnen
+* immaterieelerfgoed.be
+* Hoe verwijs je best naar de inhoud van je data? (cf persistente URI's)
+* andere richtlijnen voor gebruik?
